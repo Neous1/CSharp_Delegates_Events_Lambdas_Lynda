@@ -1,0 +1,21 @@
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\Joe Marini\Desktop\Exercise Files\Delegates\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe.config
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.exe
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.pdb
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.exe
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\AnonymousDelegates\AnonymousDelegates\bin\Debug\AnonymousDelegates.pdb
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\AnonymousDelegates\AnonymousDelegates\obj\Debug\AnonymousDelegates.csprojResolveAssemblyReference.cache
