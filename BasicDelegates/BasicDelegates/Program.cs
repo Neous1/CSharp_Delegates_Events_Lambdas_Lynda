@@ -8,7 +8,7 @@ namespace BasicDelegates
 {
     //declare the delegate type
     public delegate string MyDelegate(int arg1, int arg2);
-
+    
     class Program
     {
         static string func1(int a, int b)
