@@ -38,7 +38,7 @@ namespace ComposableDelegates
             // subtract off one of the delegates
             Console.WriteLine("\nCalling the unchained delegates");
             f1f2 -= f1;
-            f1f2(20, 20);
+            f1f2(20, 20); //400
             Console.ReadLine();
         }
     }
