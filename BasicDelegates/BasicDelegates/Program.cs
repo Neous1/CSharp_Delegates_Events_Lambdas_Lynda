@@ -11,16 +11,20 @@ namespace BasicDelegates
     
     class Program
     {
-        static string func1(int a, int b)
+        static string Func1(int a, int b)
         {
             return (a + b).ToString();
         }
-        static string func2(int a, int b)
+        static string Func2(int a, int b)
         {
             return (a * b).ToString();
         }
         static void Main(string[] args)
         {
+            MyDelegate f = Func1;
+            Console.WriteLine("The number is: " + f(10, 20));
+            f = Func2;
+            Console.WriteLine("The number is: " + f(10, 20));
         }
     }
 }

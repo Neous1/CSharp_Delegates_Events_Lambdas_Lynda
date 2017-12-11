@@ -1,1 +1,6 @@
 C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\BasicDelegates\BasicDelegates\bin\Debug\BasicDelegates.exe.config
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\BasicDelegates\BasicDelegates\bin\Debug\BasicDelegates.exe
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\BasicDelegates\BasicDelegates\bin\Debug\BasicDelegates.pdb
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\BasicDelegates\BasicDelegates\obj\Debug\BasicDelegates.csprojResolveAssemblyReference.cache
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\BasicDelegates\BasicDelegates\obj\Debug\BasicDelegates.exe
+C:\Users\yvon\dev\Lynda_Delegates_Events_lambdas\BasicDelegates\BasicDelegates\obj\Debug\BasicDelegates.pdb
