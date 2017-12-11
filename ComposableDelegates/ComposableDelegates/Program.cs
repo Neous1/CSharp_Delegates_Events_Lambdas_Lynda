@@ -35,9 +35,10 @@ namespace ComposableDelegates
             Console.WriteLine("\nCalling the chained delegates");
             f1f2(10, 20);
 
-
-
-            Console.WriteLine("\nPress Enter Key to Continue...");
+            // subtract off one of the delegates
+            Console.WriteLine("\nCalling the unchained delegates");
+            f1f2 -= f1;
+            f1f2(20, 20);
             Console.ReadLine();
         }
     }
